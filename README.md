@@ -5,9 +5,9 @@ search & download process by running it recursively inside a directory containin
 
 *Tested under Arch Linux (Antergos)
 
-**[Credits]**
--saojeda (author)
--vivithemage (majority of the filesystem code)
+**[Credits]**  
+-saojeda (author)  
+-vivithemage (majority of the filesystem code)  
 (https:gist.github.com/vivithemage/9517678)
 
 **[Dependencies]**  
