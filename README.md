@@ -8,7 +8,7 @@ search & download process by running it recursively inside a directory containin
 **[Credits]**  
 -saojeda (author)  
 -vivithemage (majority of the filesystem code)  
-(https:gist.github.com/vivithemage/9517678)
+(https://gist.github.com/vivithemage/9517678)
 
 **[Dependencies]**  
 -subberthehut (https://github.com/mus65/subberthehut)  
