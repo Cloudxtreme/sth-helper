@@ -15,7 +15,9 @@ containing multiple video files
 [Credits]
 -saojeda (author)
 -vivithemage (majority of the filesystem code)
-(https:gist.github.com/vivithemage/9517678)
+(https://gist.github.com/vivithemage/9517678)
+
+Released under MIT license
 */
 
 using namespace std;
