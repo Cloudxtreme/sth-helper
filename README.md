@@ -5,9 +5,6 @@ search & download process by running it recursively inside a directory containin
 
 *Tested under Arch Linux (Antergos)
 
-**Author**  
-* saojeda (https://github.com/saojeda)
-
 **Dependencies**  
 * subberthehut (https://github.com/mus65/subberthehut)  
 * Boost C++ library (http://www.boost.org/)
