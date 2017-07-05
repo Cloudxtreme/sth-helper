@@ -24,7 +24,7 @@ $ sudo mv sth-helper /usr/bin (move to /usr/bin in order to allow it to execute 
 $ sth-helper (note: execute inside the desired directory containing video files)
 
 Copyright (c) 2017 Sun Arthur Ojeda
-Distributed under MIT license
+Distributed under the MIT license
 https://github.com/saojeda/sth-helper/blob/master/LICENSE
 */
 
