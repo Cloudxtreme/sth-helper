@@ -7,11 +7,11 @@ search & download process by running it recursively inside a directory containin
 
 **Dependencies**  
 * subberthehut (https://github.com/mus65/subberthehut)  
-* Boost C++ library (http://www.boost.org/)
+* Boost filesystem C++ library (http://www.boost.org/)
 
 **Installation**  
 `$ g++ sth-helper.cpp -o sth-helper -lboost_filesystem -lboost_system` (compile)  
-`$ sudo mv sth-helper /usr/bin` (move to /usr/bin in order to allow it to execute everywhere)   
+`$ sudo mv sth-helper /usr/local/bin/sth-helper` (move to /usr/bin in order to allow it to execute everywhere)   
 
 **Usage**   
 `$ sth-helper` (note: execute inside the desired directory containing video files)  
